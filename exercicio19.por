@@ -20,7 +20,6 @@ programa
 		enquanto(numero >= 0)
 
 		escreva("\nQuantidade de números positivos : ",  numerosPositivos)
-
 	}
 }
 /* $$$ Portugol Studio $$$ 
@@ -28,7 +27,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 203; 
+ * @POSICAO-CURSOR = 393; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
